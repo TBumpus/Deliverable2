@@ -1,0 +1,6 @@
+/Users/admin/Projects/Deliverable2/Deliverable2/bin/Debug/Deliverable2.exe
+/Users/admin/Projects/Deliverable2/Deliverable2/bin/Debug/Deliverable2.pdb
+/Users/admin/Projects/Deliverable2/Deliverable2/obj/Debug/Deliverable2.csproj.AssemblyReference.cache
+/Users/admin/Projects/Deliverable2/Deliverable2/obj/Debug/Deliverable2.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Deliverable2/Deliverable2/obj/Debug/Deliverable2.exe
+/Users/admin/Projects/Deliverable2/Deliverable2/obj/Debug/Deliverable2.pdb
